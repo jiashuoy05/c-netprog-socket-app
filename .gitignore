@@ -1,0 +1,18 @@
+# Build artifacts
+/bin/
+/lib/
+
+# Packet captures
+/pcap/*.pcap
+/pcap/*.pcapng
+
+# macOS
+.DS_Store
+
+# Editor and tool files
+.vscode/
+*.swp
+*.swo
+
+# Reports
+/reports/
